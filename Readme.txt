@@ -1,8 +1,8 @@
 This Repository is collection of assigment implementations
 for
-Introduction to Interactive Programming using Python
+Introduction to Interactive Programming using Python (IIPP)
 and 
-Principles of Computing using Python 
+Principles of Computing using Python (POC)
 courses by Rice University on Coursera
 
 Note :
